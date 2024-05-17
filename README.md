@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## IMG
-- ![image](https://github.com/Yadier-Gonzalez-Graciano/Act11diseno/assets/143548098/f71f7fc2-e1e6-414d-a0dc-5a44e5e56ddf)
+- ![image](https://github.com/Yadier-Gonzalez-Graciano/Act11diseno/assets/143548098/576f8777-e590-4a9c-a321-33866858d5ea)
+
